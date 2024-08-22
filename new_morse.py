@@ -1,5 +1,6 @@
 # Morse code encoder and decoder programm
 
+
 # The Morse code dictionary
 morseAlphabet= {"A" : ".-" ,
                 "Ä" : "·-·-",
